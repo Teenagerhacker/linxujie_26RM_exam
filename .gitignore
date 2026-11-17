@@ -1,0 +1,28 @@
+# Build outputs
+**/build/
+**/CMakeFiles/
+**/CMakeCache.txt
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+*.map
+
+# Local IDE and OS state
+.vscode/
+.idea/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+
+# Local debug material and archives
+debug_backups/
+handoff.md
+omni_skeleton (2).zip
+*.log
+*.done
+__pycache__/
+*.pyc
+
