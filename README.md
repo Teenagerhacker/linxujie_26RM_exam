@@ -20,8 +20,6 @@ omni_skeleton/
   RobotComponents/         双板共享配置、协议、数学与类型
   tests/                   主机回归测试
 pid_capture/               PID 采样、曲线与可复现绘图脚本
-上机实操指南.md             烧录、Ozone 观察与现场验收流程
-控制代码逐段详解.md         控制链、状态机、协议和运动学说明
 考核核对与最终汇总.md       评分项、实测证据与剩余风险
 ```
 
